@@ -14,7 +14,7 @@ Created the below APIs and added the functionality as below:
 
 
 Software Stack used in the application
----------------------------------------
+=======================================
 	Spring Boot
 	Hibernate
 	Thymeleaf
